@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new brance is quick.
-Creating a new brance is quick & simple.
+Creating a new brance is quick and simple.
+
